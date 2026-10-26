@@ -1,0 +1,9 @@
+[project]
+name = "weekly-project"
+version = "0.1.0"
+requires-python = ">=3.15"
+dependencies = [
+    "namepy>=1.1.0",
+    "numpy>=2.5.4",
+    "pygame-ce>=2.5.8",
+]
