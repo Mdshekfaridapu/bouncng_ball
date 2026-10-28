@@ -6,3 +6,5 @@
 3. math
 4. random
 
+# install 
+git clone 
