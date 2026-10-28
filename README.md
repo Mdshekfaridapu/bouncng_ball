@@ -1,10 +1,10 @@
 # bouncng_ball
 
-# This game ned 4 packages and package installation commands
+# This game neds 4 packages and package installation commands
 1. pygame  // pip install pygame or pip install pygame-ce
 2. numpy   // pip install numpy
 4. math    // pip install math
-6. random  // pip install mant 
+6. random  // pip install random
 
 # install 
 git clone https://github.com/Mdshekfaridapu/bouncng_ball.git
